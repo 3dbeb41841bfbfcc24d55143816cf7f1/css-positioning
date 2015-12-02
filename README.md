@@ -48,6 +48,7 @@
     height: 100px;
     width: 100px;
 }
+```
 <br><br>
 
 ---
@@ -89,9 +90,9 @@
 
 ```css
 background-color: gray;
-    position: static;
-    height: 500px;
-    width: 500px;
+position: static;
+height: 500px;
+width: 500px;
 ```
 
 You rarely explicitly declare `position:static` like this because it is the default.
